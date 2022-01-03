@@ -23,6 +23,7 @@ I love cats and music.
 **HTML:** 6/10 <br/>
 **CSS:** 5/10 <br/>
 **JS:** 1/10 <br/>
+**GIT:** 3/10 <br/>
 
 ---
 
